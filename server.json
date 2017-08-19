@@ -1,0 +1,8 @@
+{
+    "name":"cfml-jsoup-example",
+    "openBrowser":true,
+    "web":{
+        "webroot":"app",
+        "host":"127.0.0.1"
+    }
+}
