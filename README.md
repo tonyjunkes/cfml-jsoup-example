@@ -1,4 +1,4 @@
-## Crash Course Into CFML &amp; jsoup
+## Crash Course In CFML &amp; jsoup
 
 To get started, you will need CommandBox installed.
 
