@@ -1,4 +1,4 @@
-<h1>Crash Course Into CFML &amp; jsoup</h1>
+<h1>Crash Course In CFML &amp; jsoup</h1>
 
 <h2>Examples</h2>
 
